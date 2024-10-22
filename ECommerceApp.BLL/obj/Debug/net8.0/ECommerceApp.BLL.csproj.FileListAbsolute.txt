@@ -1,0 +1,15 @@
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\bin\Debug\net8.0\ECommerceApp.BLL.deps.json
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\bin\Debug\net8.0\ECommerceApp.BLL.dll
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\bin\Debug\net8.0\ECommerceApp.BLL.pdb
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\bin\Debug\net8.0\ECommerceApp.DAL.dll
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\bin\Debug\net8.0\ECommerceApp.DAL.pdb
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\obj\Debug\net8.0\ECommerceApp.BLL.csproj.AssemblyReference.cache
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\obj\Debug\net8.0\ECommerceApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\obj\Debug\net8.0\ECommerceApp.BLL.AssemblyInfoInputs.cache
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\obj\Debug\net8.0\ECommerceApp.BLL.AssemblyInfo.cs
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\obj\Debug\net8.0\ECommerceApp.BLL.csproj.CoreCompileInputs.cache
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\obj\Debug\net8.0\ECommerc.E55172D6.Up2Date
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\obj\Debug\net8.0\ECommerceApp.BLL.dll
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\obj\Debug\net8.0\refint\ECommerceApp.BLL.dll
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\obj\Debug\net8.0\ECommerceApp.BLL.pdb
+D:\ECommerceApp\ECommerceApp\ECommerceApp.BLL\obj\Debug\net8.0\ref\ECommerceApp.BLL.dll

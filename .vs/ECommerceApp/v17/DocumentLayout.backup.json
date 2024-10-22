@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ECommerceApp\\ECommerceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{599FC1F1-7397-4D69-9F29-C1A7C1F61E55}|ECommerceApp.Web\\ECommerceApp.Web.csproj|d:\\ecommerceapp\\ecommerceapp\\ecommerceapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599FC1F1-7397-4D69-9F29-C1A7C1F61E55}|ECommerceApp.Web\\ECommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90936858-B70C-402A-8699-8F32668FFA96}|ECommerceApp.API\\ECommerceApp.API.csproj|d:\\ecommerceapp\\ecommerceapp\\ecommerceapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90936858-B70C-402A-8699-8F32668FFA96}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90936858-B70C-402A-8699-8F32668FFA96}|ECommerceApp.API\\ECommerceApp.API.csproj|d:\\ecommerceapp\\ecommerceapp\\ecommerceapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90936858-B70C-402A-8699-8F32668FFA96}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CE52C3-547A-45A0-86CF-61ED0D0DF7ED}|ECommerceApp.BLL\\ECommerceApp.BLL.csproj|d:\\ecommerceapp\\ecommerceapp\\ecommerceapp.bll\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CE52C3-547A-45A0-86CF-61ED0D0DF7ED}|ECommerceApp.BLL\\ECommerceApp.BLL.csproj|solutionrelative:ecommerceapp.bll\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF90271-4CF6-4D77-A2F2-0B8E41B3C989}|ECommerceApp.DAL\\ECommerceApp.DAL.csproj|d:\\ecommerceapp\\ecommerceapp\\ecommerceapp.dal\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF90271-4CF6-4D77-A2F2-0B8E41B3C989}|ECommerceApp.DAL\\ECommerceApp.DAL.csproj|solutionrelative:ecommerceapp.dal\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF90271-4CF6-4D77-A2F2-0B8E41B3C989}|ECommerceApp.DAL\\ECommerceApp.DAL.csproj|d:\\ecommerceapp\\ecommerceapp\\ecommerceapp.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF90271-4CF6-4D77-A2F2-0B8E41B3C989}|ECommerceApp.DAL\\ECommerceApp.DAL.csproj|solutionrelative:ecommerceapp.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90936858-B70C-402A-8699-8F32668FFA96}|ECommerceApp.API\\ECommerceApp.API.csproj|d:\\ecommerceapp\\ecommerceapp\\ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90936858-B70C-402A-8699-8F32668FFA96}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599FC1F1-7397-4D69-9F29-C1A7C1F61E55}|ECommerceApp.Web\\ECommerceApp.Web.csproj|d:\\ecommerceapp\\ecommerceapp\\ecommerceapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{599FC1F1-7397-4D69-9F29-C1A7C1F61E55}|ECommerceApp.Web\\ECommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599FC1F1-7397-4D69-9F29-C1A7C1F61E55}|ECommerceApp.Web\\ECommerceApp.Web.csproj|d:\\ecommerceapp\\ecommerceapp\\ecommerceapp.web\\ecommerceapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{599FC1F1-7397-4D69-9F29-C1A7C1F61E55}|ECommerceApp.Web\\ECommerceApp.Web.csproj|solutionrelative:ecommerceapp.web\\ecommerceapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90936858-B70C-402A-8699-8F32668FFA96}|ECommerceApp.API\\ECommerceApp.API.csproj|d:\\ecommerceapp\\ecommerceapp\\ecommerceapp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90936858-B70C-402A-8699-8F32668FFA96}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90936858-B70C-402A-8699-8F32668FFA96}|ECommerceApp.API\\ECommerceApp.API.csproj|d:\\ecommerceapp\\ecommerceapp\\ecommerceapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90936858-B70C-402A-8699-8F32668FFA96}|ECommerceApp.API\\ECommerceApp.API.csproj|solutionrelative:ecommerceapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.Web\\Program.cs",
+              "ToolTip": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.Web\\Program.cs",
+              "RelativeToolTip": "ECommerceApp.Web\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:40:56.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.API\\Program.cs",
+              "ToolTip": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.API\\Program.cs",
+              "RelativeToolTip": "ECommerceApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:38:45.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ECommerceApp.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:36:55.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.BLL\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.BLL\\Services\\JwtService.cs",
+              "ToolTip": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.BLL\\Services\\JwtService.cs",
+              "RelativeToolTip": "ECommerceApp.BLL\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:35:27.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.DAL\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.DAL\\Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.DAL\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "ECommerceApp.DAL\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:34:12.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ECommerceApp.DAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:32:57.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceApp.API\\appsettings.json",
+              "ToolTip": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.API\\appsettings.json",
+              "RelativeToolTip": "ECommerceApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T03:29:00.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceApp.Web\\appsettings.json",
+              "ToolTip": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.Web\\appsettings.json",
+              "RelativeToolTip": "ECommerceApp.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T03:26:10.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ECommerceApp.Web",
+              "DocumentMoniker": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.Web\\ECommerceApp.Web.csproj",
+              "RelativeDocumentMoniker": "ECommerceApp.Web\\ECommerceApp.Web.csproj",
+              "ToolTip": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.Web\\ECommerceApp.Web.csproj",
+              "RelativeToolTip": "ECommerceApp.Web\\ECommerceApp.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T03:01:16.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.API\\WeatherForecast.cs",
+              "ToolTip": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.API\\WeatherForecast.cs",
+              "RelativeToolTip": "ECommerceApp.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:46:42.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ECommerceApp\\ECommerceApp\\ECommerceApp.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ECommerceApp.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:46:23.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\bin\Debug\net8.0\ECommerceApp.DAL.deps.json
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\bin\Debug\net8.0\ECommerceApp.DAL.runtimeconfig.json
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\bin\Debug\net8.0\ECommerceApp.DAL.dll
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\bin\Debug\net8.0\ECommerceApp.DAL.pdb
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\obj\Debug\net8.0\ECommerceApp.DAL.csproj.AssemblyReference.cache
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\obj\Debug\net8.0\ECommerceApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\obj\Debug\net8.0\ECommerceApp.DAL.AssemblyInfoInputs.cache
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\obj\Debug\net8.0\ECommerceApp.DAL.AssemblyInfo.cs
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\obj\Debug\net8.0\ECommerceApp.DAL.csproj.CoreCompileInputs.cache
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\obj\Debug\net8.0\ECommerceApp.DAL.dll
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\obj\Debug\net8.0\refint\ECommerceApp.DAL.dll
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\obj\Debug\net8.0\ECommerceApp.DAL.pdb
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\obj\Debug\net8.0\ECommerceApp.DAL.genruntimeconfig.cache
+D:\ECommerceApp\ECommerceApp\ECommerceApp.DAL\obj\Debug\net8.0\ref\ECommerceApp.DAL.dll
